@@ -1,0 +1,107 @@
+fileFormatVersion: 1
+guid: bbfbb0c94e19d6b43bd3c52c67bc8b23
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 1
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 0
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    Cube.001:
+    - 100000
+    - 400000
+    - 13700000
+    Armature.001:
+    - 100002
+    - 400002
+    //RootNode:
+    - 100004
+    - 400004
+    - 11100000
+    Foot_L:
+    - 100006
+    - 400006
+    LowerLeg_L:
+    - 100008
+    - 400008
+    UpperLeg_L:
+    - 100010
+    - 400010
+    Foot_R:
+    - 100012
+    - 400012
+    LowerLeg_R:
+    - 100014
+    - 400014
+    UpperLeg_R:
+    - 100016
+    - 400016
+    Hand_L:
+    - 100018
+    - 400018
+    LowerArm_L:
+    - 100020
+    - 400020
+    UpperArm_L:
+    - 100022
+    - 400022
+    Neck:
+    - 100024
+    - 400024
+    Hand_R:
+    - 100026
+    - 400026
+    LowerArm_R:
+    - 100028
+    - 400028
+    UpperArm_R:
+    - 100030
+    - 400030
+    Spine:
+    - 100032
+    - 400032
+    SpineRoot:
+    - 100034
+    - 400034
+    Mover:
+    - 100036
+    - 400036
+    Camera:
+    - 100038
+    - 400038
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: Cube.001
+    7400000: BattlePunch //// boxman
+    7400002: BattleSmallHit //// boxman
+    7400004: BattleSmallPunch //// boxman
+    7400006: BattleStance //// boxman
+    7400008: BattleStand //// boxman
+    7400010: GrabFall //// boxman
+    7400012: JumpGrab //// boxman
+    7400014: JumpWave //// boxman
+    7400016: NoPose //// boxman
+    7400018: Run //// boxman
+    7400020: Stand //// boxman
+    7400022: StandCraze //// boxman
+    7400024: StandSloth //// boxman
+    7400026: StepLeft //// boxman
+    7400028: StepRight //// boxman
+    7400030: Throw //// boxman
+    7400032: Walk //// boxman

@@ -1,0 +1,130 @@
+fileFormatVersion: 1
+guid: 284dad74b52524548aac99d6a3c66d4e
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 1
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 0
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    Ground:
+    - 100000
+    - 400000
+    - 3300000
+    - 2300000
+    Bushes.002:
+    - 100002
+    - 400002
+    - 3300002
+    - 2300002
+    PortalPlane:
+    - 100004
+    - 400004
+    - 3300004
+    - 2300004
+    Bushes:
+    - 100006
+    - 400006
+    - 3300006
+    - 2300006
+    Tree:
+    - 100008
+    - 400008
+    - 3300008
+    - 2300008
+    House.001:
+    - 100010
+    - 400010
+    - 3300010
+    - 2300010
+    Tree.004:
+    - 100012
+    - 400012
+    - 3300012
+    - 2300012
+    Bench.001:
+    - 100014
+    - 400014
+    - 3300014
+    - 2300014
+    Tree.001:
+    - 100016
+    - 400016
+    - 3300016
+    - 2300016
+    Bench.002:
+    - 100018
+    - 400018
+    - 3300018
+    - 2300018
+    Tree.003:
+    - 100020
+    - 400020
+    - 3300020
+    - 2300020
+    Tree.002:
+    - 100022
+    - 400022
+    - 3300022
+    - 2300022
+    Bench:
+    - 100024
+    - 400024
+    - 3300024
+    - 2300024
+    Tree.005:
+    - 100026
+    - 400026
+    - 3300026
+    - 2300026
+    Lamp:
+    - 100028
+    - 400028
+    //RootNode:
+    - 100030
+    - 400030
+    - 11100000
+    Bushes.001:
+    - 100032
+    - 400032
+    - 3300028
+    - 2300028
+    Fence:
+    - 100034
+    - 400034
+    - 3300030
+    - 2300030
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: Fence
+    4300002: Bench
+    4300004: Bench.002
+    4300006: Tree.004
+    4300008: Tree.005
+    4300010: Tree
+    4300012: Tree.001
+    4300014: Tree.002
+    4300016: Ground
+    4300018: Tree.003
+    4300020: Bench.001
+    4300022: Bushes
+    4300024: Bushes.002
+    4300026: Bushes.001
+    4300028: House.001
+    4300030: PortalPlane
